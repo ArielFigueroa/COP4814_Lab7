@@ -8,6 +8,7 @@ namespace Reservation_Library
 {
     public class Flight
     {
+        // Comments required for Lab 7
 
         public int flightNum { get; set; }
 
