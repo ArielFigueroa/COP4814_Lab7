@@ -11,6 +11,9 @@ namespace Reservation_Library
 {
     public class ScheduledFlight
     {
+        
+        // Comments Required for Lab 7
+        
         public List<Flight> ListOfFlights = new List<Flight>();
         public string filePath = "..\\..\\flights.xml";
 
